@@ -1,3 +1,0 @@
-# AWS Pipeline
-
-Test!
